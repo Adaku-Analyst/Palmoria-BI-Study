@@ -4,6 +4,7 @@
 This project is part of the DSA Data Analysis Capstone and focuses on analyzing the HR dataset of Palmoria Group, a Nigerian manufacturing company. The analysis addresses issues surrounding gender distribution, performance ratings, salary disparities, and compliance with the new $90,000 minimum salary policy. It also includes a detailed breakdown of bonus allocation based on performance.
 
 🎯 Objectives
+The goals of this project includes:
 + Analyze gender distribution across regions and departments
 + Detect performance rating trends across genders
 + Identify potential gender pay gaps
@@ -29,10 +30,10 @@ The dataset contains employee information including:
 + DAX / Power Query – Calculated columns and measures
 
 🔍 Key Insights
-+ Several departments show imbalanced gender representation
-+ Some regions fall below the mandated $90,000 minimum salary
++ The male staff earn more than the female staff averagely regardless of ratings.
++ On the average, employess earn below $90,000 minimum salary
 + Average salary gaps were found in key departments by gender
 + Bonus allocation highlights top-performing employees
-+ Salary band analysis shows majority earning between $70k–90k
++ Salary band analysis shows majority earning between $70,000–$90,000 with men earning more than women on the average.
 
 🙌 Author Adaku Nwachukwu 📍 Lagos State, Nigeria 📱 +234 802 269 4082 📧 funminwachukwu@gmail.com
